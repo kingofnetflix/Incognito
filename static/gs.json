@@ -1,10 +1,10 @@
 [
   {
-    "img": "./img/gs/krk.png",
-    "location": "./load.html#a3J1bmtlci5pbw%3D%3D",
-    "title": "Krunker.io",
-    "author": "Yendis Entertainment",
-    "description": "Krunker is a remarkable first-person shooter game where you fall right into a dark world, tasked with fighting against other players from around the world.",
+    "img": "./img/gs/now.gg.png",
+    "location": "./load.html#bm93Z2cubWU=",
+    "title": "now.gg",
+    "author": "now.gg, game.tv",
+    "description": "now.gg is the mobile cloud company changing the gaming experience for game developers and consumers. With the first mobile platform-as-a-service for game developers, now.gg enables gaming communities to play games on any device or OS, share games instantly on their social channels and pay in-game through payment channels they already have.",
     "category": "multi",
     "featured": true
   },
@@ -129,7 +129,7 @@
   },
   {
     "img": "./img/gs/fnf.jpg",
-    "location": "./source/fnf/",
+    "location": "./source/fridaynightfunkin/",
     "category": "web",
     "title": "Friday Night Funkin"
   },
@@ -230,6 +230,12 @@
     "category": "web"
   },
   {
+    "img": "./img/gs/vex6.jpg",
+    "location": "./source/vex6/",
+    "title": "Vex 6",
+    "category": "web"
+  },
+  {
     "img": "./img/gs/warfare1917.png",
     "location": "./source/swfs/#warfare1917",
     "title": "Warfare 1917"
@@ -244,14 +250,5 @@
     "location": "./load.html#em9tYnNyb3lhbGUuaW8%3D",
     "title": "ZombsRoyale.io",
     "category": "multi"
-  },
-  {
-    "img": "./img/gs/now.gg.png",
-    "location": "./load.html#bm93Z2cubWU=",
-    "title": "now.gg",
-    "author": "now.gg, game.tv",
-    "description": "now.gg is the mobile cloud company changing the gaming experience for game developers and consumers. With the first mobile platform-as-a-service for game developers, now.gg enables gaming communities to play games on any device or OS, share games instantly on their social channels and pay in-game through payment channels they already have.",
-    "category": "multi",
-    "featured": true
   }
- ]
+]
