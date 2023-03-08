@@ -48,5 +48,10 @@
         "title": "Y8",
         "img": "./img/apps/y8.png",
         "location": "https://www.y8.com"
+    },
+    {
+        "title": "Poki",
+        "img": "./img/apps/poki.png",
+        "location": "https://poki.com"
     }
 ]
