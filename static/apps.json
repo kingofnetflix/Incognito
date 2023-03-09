@@ -30,9 +30,9 @@
         "location": "https://twitch.tv"
     },
     {
-        "title": "Discord",
+        "title": "Discord Private Instance",
         "img": "./img/apps/dd.jpg",
-        "location": "https://discord.com/app"
+        "location": "./load.html#aaHR0cHM6Ly9mb3NzY29yZC50YWtlb2ZmeW91ci5za2lu"
     },
     {
         "title": "Poki",
