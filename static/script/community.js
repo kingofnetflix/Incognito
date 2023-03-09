@@ -29,7 +29,7 @@ function community(app) {
                             'margin-bottom': '0'
                         }
                     }),
-                    app.createElement('p', 'Click this button to <a href="./load.html#aHR0cHM6Ly9mb3NzY29yZC50YWtlb2ZmeW91ci5za2lu">proceed</a>.', {
+                    app.createElement('p', 'Click this button to <a href="./load.html#aHR0cHM6Ly9mb3NzY29yZC50YWtlb2ZmeW91ci5za2luL2ludml0ZS9TYWZub2E=">proceed</a>.', {
                         style: {
                             'margin-bottom': '0'
                         }
