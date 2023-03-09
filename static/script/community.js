@@ -23,7 +23,7 @@ function community(app) {
     app.main.support = app.createElement(
         'div', 
         [  
-           events: {
+           events {
             const frame = document.querySelector('iframe');
             frame.src = './load.html#aaHR0cHM6Ly9mb3NzY29yZC50YWtlb2ZmeW91ci5za2lu';
             document.querySelector('.access-panel').style.removeProperty('display');
