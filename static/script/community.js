@@ -22,12 +22,22 @@ function community(app) {
     app.search.input.style.display = 'none';
     app.main.support = app.createElement(
         'div', 
-        [  
-           events {
-            const frame = document.querySelector('iframe');
-            frame.src = './load.html#aaHR0cHM6Ly9mb3NzY29yZC50YWtlb2ZmeW91ci5za2lu';
-            document.querySelector('.access-panel').style.removeProperty('display');
-          } 
+        [
+            app.createElement('section', [
+                app.createElement('p', 'You are being taken to the Private Instance Discord server, which I have full control of. Think of it as a Roblox private server.', {
+                        style: {
+                            'margin-bottom': '0'
+                        }
+                    }),
+                    app.createElement('p', 'Click this button to <a href="./load.html#aHR0cHM6Ly9mb3NzY29yZC50YWtlb2ZmeW91ci5za2lu">proceed</a>.', {
+                        style: {
+                            'margin-bottom': '0'
+                        }
+                    }),
+            ], {
+                class: 'data-section'
+            }),
+            
         ]);
         app.search.back.style.display = 'inline';
     app.search.back.setAttribute(
