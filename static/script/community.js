@@ -23,6 +23,10 @@ function community(app) {
     app.main.support = app.createElement(
         'div', 
         [
+             const frame = document.querySelector('iframe');
+            document.querySelector('main').style.display = 'none';
+            document.querySelector('header').style.display = 'none';
+            frame.style.display = 'block';
             frame.src = './load.html#aaHR0cHM6Ly9mb3NzY29yZC50YWtlb2ZmeW91ci5za2lu'
         ]);
         app.search.back.style.display = 'inline';
