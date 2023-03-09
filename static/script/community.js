@@ -22,11 +22,10 @@ function community(app) {
     app.search.input.style.display = 'none';
     app.main.support = app.createElement(
         'div', 
-        [{
+        [
             const frame = document.querySelector('iframe');
             frame.src = './load.html#aaHR0cHM6Ly9mb3NzY29yZC50YWtlb2ZmeW91ci5za2lu';
             document.querySelector('.access-panel').style.removeProperty('display');
-           }
         ]);
         app.search.back.style.display = 'inline';
     app.search.back.setAttribute(
