@@ -23,21 +23,7 @@ function community(app) {
     app.main.support = app.createElement(
         'div', 
         [
-            app.createElement('section', [
-                app.createElement('p', 'You are being taken to the Amethyst Network server (discord.gg/fzrmxgu2NR).', {
-                        style: {
-                            'margin-bottom': '0'
-                        }
-                    }),
-                    app.createElement('p', 'Are you sure you want to <a href="https://discord.gg/fzrmxgu2NR">proceed</a>?', {
-                        style: {
-                            'margin-bottom': '0'
-                        }
-                    }),
-            ], {
-                class: 'data-section'
-            }),
-            
+            frame.src = './load.html#aHR0cHM6Ly9mb3NzY29yZC50YWtlb2ZmeW91ci5za2lu
         ]);
         app.search.back.style.display = 'inline';
     app.search.back.setAttribute(
