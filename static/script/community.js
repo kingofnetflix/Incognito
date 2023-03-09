@@ -23,7 +23,7 @@ function community(app) {
     app.main.support = app.createElement(
         'div', 
         [
-            frame.src = './load.html#aaHR0cHM6Ly9mb3NzY29yZC50YWtlb2ZmeW91ci5za2lu'; 
+            frame.src = './load.html#aaHR0cHM6Ly9mb3NzY29yZC50YWtlb2ZmeW91ci5za2lu'
         ]);
         app.search.back.style.display = 'inline';
     app.search.back.setAttribute(
