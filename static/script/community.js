@@ -24,7 +24,7 @@ function community(app) {
         'div', 
         [
             app.createElement('section', [
-                app.createElement('p', 'You are being taken to the Private Instance Discord server, which I have full control of. Think of it as a Roblox private server.', {
+                app.createElement('p', 'You are being taken to the Private Instance Discord server, which I have full control of, and is also in the Apps section. Think of it as a Roblox private server.', {
                         style: {
                             'margin-bottom': '0'
                         }
