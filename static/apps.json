@@ -10,6 +10,11 @@
         "location": "https://www.youtube.com"
     },
     {
+        "title": "goku.to",
+        "img": "./img/apps/goku.png",
+        "location": "https://goku.to"
+    },
+    {
         "title": "Spotify",
         "img": "./img/apps/spot.png",
         "location": "https://open.spotify.com"
@@ -30,9 +35,9 @@
         "location": "https://twitch.tv"
     },
     {
-        "title": "Discord Private Instance",
+        "title": "Discord",
         "img": "./img/apps/dd.jpg",
-        "location": "https://fosscord.takeoffyour.skin"
+        "location": "https://discord.com/app"
     },
     {
         "title": "Poki",
