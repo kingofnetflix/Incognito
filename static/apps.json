@@ -45,6 +45,11 @@
         "location": "https://poki.com"
     },
     {
+        "title": "CrazyGames",
+        "img": "./img/apps/crazy.jpg",
+        "location": "https://crazygames.com"
+    },
+    {
         "title": "Geforce Now",
         "img": "./img/apps/gfnow.png",
         "location": "https://play.geforcenow.com"
