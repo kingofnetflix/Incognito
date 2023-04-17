@@ -1,1 +1,1 @@
-I will provide no support for this client
+I will provide no support for eaglercraft
