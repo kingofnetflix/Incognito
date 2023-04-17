@@ -1,5 +1,14 @@
 [
   {
+    "img": "./img/gs/mc.png",
+    "location": "./load.html#aHR0cHM6Ly9lYWdsZXJjcmFmdC5ydS9tYy8xLjUuMi92YW5pbGxhLw==",
+    "title": "Eaglercraft",
+    "author": "",
+    "description": "",
+    "category": "multi",
+    "featured": true
+  },
+  {
     "img": "./img/gs/now.gg.png",
     "location": "./nowgg.html",
     "title": "now.gg",
