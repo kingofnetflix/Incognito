@@ -194,7 +194,7 @@
 </head>
 
 <body class="staticrypt-body">
-    <audio controls id="jazz">
+    <audio controls autoplay id="jazz">
         <source src="A_Leaf.mp3" type="audio/mpeg">
     </audio>
 <div id="staticrypt_loading" class="staticrypt-spinner-container">
@@ -225,6 +225,13 @@
                     Remember me
                 </label>
                 <input type="submit" class="staticrypt-decrypt-button" value="SUBMIT" id="decrypted"/>
+                <script>
+                    var audio = document.getElementById("jazz");
+                    var input = document.getElementById("decrypted");
+                  
+                    input.addEventListener("click", function() {
+                      audio.pause();
+                    });
                   </script>
             </form>
         </div>
